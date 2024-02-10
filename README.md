@@ -1,5 +1,7 @@
 # MNIST-Handwritten-Digit-Recognition-Using-Neural-Network-from-Scratch
 
+![header](https://github.com/bitsdaddy/MNIST-Handwritten-Digit-Recognition-Using-Neural-Network-from-Scratch/assets/91019246/7445cb57-d85f-40e9-aca5-4f51c8e21eb6)
+
 # Handwritten Digit Recognition using Neural Networks
 
 ## Overview
